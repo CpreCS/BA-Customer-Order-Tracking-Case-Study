@@ -33,7 +33,7 @@ Business Analysis case study focused on defining requirements, mapping workflows
 ---
 
 ## Process Flow
-![Process Flow](assets/process-flow.png)
+![Process Flow](process-flow.png)
 
 ---
 
